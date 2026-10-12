@@ -6,7 +6,7 @@ This is part of the Swift Tech Co. working stack for product and engineering. It
 
 ## Images
 
-[![javascript-algorithms](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![javascript-algorithms](images/preview.png)](https://github.com/Swift-Tech-Co/javascript-algorithms)
 
 ## Data Structures
 
@@ -346,6 +346,14 @@ A few more [projects](https://trekhleb.dev/projects/) and [articles](https://tre
 
 - 🧠 [yesbrainer.ai](https://yesbrainer.ai/) – council of AI models for the decisions that aren’t no-brainers (BYOK, private, no account)
 - ✍🏻 [okso.app](https://okso.app/) – drawing app to express, grasp, and organize your thoughts and ideas
+
+## Sources
+
+Compiled and maintained from upstream [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
