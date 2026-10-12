@@ -1,44 +1,12 @@
-# JavaScript Algorithms and Data Structures
+# javascript-algorithms
 
-> 🇺🇦 UKRAINE [IS BEING ATTACKED](https://war.ukraine.ua/) BY RUSSIAN ARMY. CIVILIANS ARE GETTING KILLED. RESIDENTIAL AREAS ARE GETTING BOMBED.
-> - Help Ukraine via:
->   - [Serhiy Prytula Charity Foundation](https://prytulafoundation.org/en/)
->   - [Come Back Alive Charity Foundation](https://savelife.in.ua/en/donate-en/)
->   - [National Bank of Ukraine](https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi)
-> - More info on [war.ukraine.ua](https://war.ukraine.ua/) and [MFA of Ukraine](https://twitter.com/MFA_Ukraine)
+## What This Is
 
-<hr/>
+This is part of the Swift Tech Co. working stack for product and engineering. It gathers the javascript-algorithms notes, examples and fixes that keep delivery fast, and doubles as the reference map we hand to whoever picks up this thread next.
 
-[![CI](https://github.com/trekhleb/javascript-algorithms/workflows/CI/badge.svg)](https://github.com/trekhleb/javascript-algorithms/actions?query=workflow%3ACI+branch%3Amaster)
-[![codecov](https://codecov.io/gh/trekhleb/javascript-algorithms/branch/master/graph/badge.svg)](https://codecov.io/gh/trekhleb/javascript-algorithms)
-![repo size](https://img.shields.io/github/repo-size/trekhleb/javascript-algorithms.svg)
+## Images
 
-This repository contains JavaScript based examples of many
-popular algorithms and data structures.
-
-Each algorithm and data structure has its own separate README
-with related explanations and links for further reading (including ones
-to YouTube videos).
-
-_Read this in other languages:_
-[_简体中文_](README.zh-CN.md),
-[_繁體中文_](README.zh-TW.md),
-[_한국어_](README.ko-KR.md),
-[_日本語_](README.ja-JP.md),
-[_Polski_](README.pl-PL.md),
-[_Français_](README.fr-FR.md),
-[_Español_](README.es-ES.md),
-[_Português_](README.pt-BR.md),
-[_Русский_](README.ru-RU.md),
-[_Türkçe_](README.tr-TR.md),
-[_Italiano_](README.it-IT.md),
-[_Bahasa Indonesia_](README.id-ID.md),
-[_Українська_](README.uk-UA.md),
-[_Arabic_](README.ar-AR.md),
-[_Tiếng Việt_](README.vi-VN.md),
-[_Deutsch_](README.de-DE.md),
-[_Uzbek_](README.uz-UZ.md),
-[_עברית_](README.he-IL.md)
+[![javascript-algorithms](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## Data Structures
 
@@ -378,3 +346,11 @@ A few more [projects](https://trekhleb.dev/projects/) and [articles](https://tre
 
 - 🧠 [yesbrainer.ai](https://yesbrainer.ai/) – council of AI models for the decisions that aren’t no-brainers (BYOK, private, no account)
 - ✍🏻 [okso.app](https://okso.app/) – drawing app to express, grasp, and organize your thoughts and ideas
+
+## Sources
+
+Compiled and maintained from upstream [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
